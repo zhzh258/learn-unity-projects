@@ -5,6 +5,7 @@ Small Unity projects. See the branches.
 3. `jump-game`: rigid body, particle system, sound effect
 4. `user-interface`: momentum, angular momentum, UI
 5. `shaders-and-materials`: URP, shaders & materials effect, texture mapping, bump mapping
+6. `lighting`: Baked Global Illumination, lightmapping, shadow, light probes, reflection probes
 
 ## Unity Editor version
 2022.3.30f1 (LTS)
